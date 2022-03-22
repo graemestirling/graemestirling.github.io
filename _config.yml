@@ -3,17 +3,17 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
+title: Graeme's Technological Marvel
 subtitle: ''
 description: ''
 keywords:
-author: John Doe
+author: Graeme Stirling
 language: en
-timezone: ''
+timezone: 'Europe/London'
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
-url: http://example.com
+url: http://graemestirling.github.io
 permalink: :year/:month/:day/:title/
 permalink_defaults:
 pretty_urls:
